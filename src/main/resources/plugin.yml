@@ -1,0 +1,4 @@
+name: Essentials
+version: '${project.version}'
+main: essentials.essentials.Essentials
+api-version: 1.19
